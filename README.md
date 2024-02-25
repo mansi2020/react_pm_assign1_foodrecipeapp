@@ -3,10 +3,15 @@
 ## Overview
 This project is a food recipe app developed using an API to fetch food recipes. It allows users to search for various foods and view detailed recipes, including ingredients and steps to follow. The app is designed to provide a user-friendly interface for accessing a wide range of recipes, and it is responsive to different screen sizes.
 
-## Screenshots
-![Uploading assign1-guidance2.png…]()  
+## Screenshots and guidance
 
-![Uploading assign1-guidance1.png…]()  
+<h1>Home page</h1>  
+
+![assign1-guidance1](https://github.com/mansi2020/react_pm_assign1_foodrecipeapp/assets/57188328/da335e60-6927-4b4c-8d0e-d5966b91019b)  
+
+<h1>Recipe page</h1> 
+![assign1-guidance2](https://github.com/mansi2020/react_pm_assign1_foodrecipeapp/assets/57188328/a19954f1-28ab-4548-a170-9aa5c4014719)
+
 
 
 
