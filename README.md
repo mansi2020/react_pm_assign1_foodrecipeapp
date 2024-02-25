@@ -1,10 +1,14 @@
 # Food Recipe App
 
 ## Overview
-This project is a food recipe app developed using an API to fetch food recipes. It allows users to search for various foods and view detailed recipes, including ingredients and steps to follow. The app is designed to provide a user-friendly interface for accessing a wide range of recipes.
+This project is a food recipe app developed using an API to fetch food recipes. It allows users to search for various foods and view detailed recipes, including ingredients and steps to follow. The app is designed to provide a user-friendly interface for accessing a wide range of recipes, and it is responsive to different screen sizes.
 
 ## Screenshots
-*[Insert screenshots or links to screenshots of the project's UI]*
+![Uploading assign1-guidance2.png…]()  
+
+![Uploading assign1-guidance1.png…]()  
+
+
 
 ## Functionalities Implemented
 1. **Search functionality:** Users can search for different types of food.
@@ -19,6 +23,10 @@ This project is a food recipe app developed using an API to fetch food recipes. 
 - Improved understanding of working with APIs in React applications.
 - Enhanced knowledge of handling asynchronous operations using Axios.
 - Strengthened proficiency in building responsive user interfaces with React.
+- Utilized Axios for making HTTP requests.
+- Leveraged React Router for navigation within the app.
+- Employed the useReducer hook for managing state in complex components.
+- Implemented responsiveness to ensure optimal viewing experience across different devices.
 
 ## Future Improvements Needed
 1. Implement user authentication to allow users to save their favorite recipes or create custom recipe collections.
@@ -28,6 +36,4 @@ This project is a food recipe app developed using an API to fetch food recipes. 
 5. Optimize performance by implementing lazy loading for images or pagination for large recipe datasets.
 6. Add offline support using service workers to allow users to access recipes even without an internet connection.
 
-## Contributing
-Contributions to the project are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
