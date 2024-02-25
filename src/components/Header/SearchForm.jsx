@@ -38,8 +38,10 @@ const SearchForm = () => {
   return (
     <form className='flex search-form align-center' onSubmit={(e)=>handleSearchResult(e)}>
       <input type="text" placeholder="Search recipes here..." className='form-control-input text-dark-gray fs-15' onChange={(e)=>handlleSearchFood(e)}/>
-      <button type="submit" className='form-submit-btn text-white text-uppercase fs-14'></button>
+      <button type="submit" className='form-submit-btn text-white text-uppercase fs-14'>
       <BsSearch size={20} className='btn-icon'/>
+      </button>
+      
     </form>
   )
 }

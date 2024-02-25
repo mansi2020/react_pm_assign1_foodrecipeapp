@@ -130,6 +130,18 @@ select {
 
 .grid {
   display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 20px;
+
+}
+/* media query */
+@media screen and (min-width: 320px) and (max-width: 900px) {
+  .grid {
+    /* display: grid; */
+    grid-template-columns: repeat(1, 1fr);
+    grid-column-gap: 20px;
+  
+  }
 }
 
 /* height and width */
