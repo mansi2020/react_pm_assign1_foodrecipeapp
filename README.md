@@ -9,7 +9,8 @@ This project is a food recipe app developed using an API to fetch food recipes. 
 
 ![assign1-guidance1](https://github.com/mansi2020/react_pm_assign1_foodrecipeapp/assets/57188328/da335e60-6927-4b4c-8d0e-d5966b91019b)  
 
-<h1>Recipe page</h1> 
+<h1>Recipe page</h1>   
+
 ![assign1-guidance2](https://github.com/mansi2020/react_pm_assign1_foodrecipeapp/assets/57188328/a19954f1-28ab-4548-a170-9aa5c4014719)
 
 
